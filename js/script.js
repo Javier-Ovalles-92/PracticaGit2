@@ -1,6 +1,6 @@
 
-import {ButtonGoTop} from './bottom_go_top.js.js';
-import btnMenu from './btn_menu.js.js';
+import {ButtonGoTop} from './bottom_go_top.js';
+import btnMenu from './btn_menu.js';
 
 console.log("se cargo script");
 
