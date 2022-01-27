@@ -3,6 +3,10 @@
 @import url(/css/menu.css) all;
 @import url(/css/container.css);
 @import url(/css/footer.css);
+<<<<<<< HEAD
 @import url(/css/component/ads_banner.css);
 @import url(/css/component/card.css);
 @import url(/css/container.css);
+=======
+@import url(/css/contact.css) all;
+>>>>>>> contact
